@@ -1,0 +1,4 @@
+__pycache__/
+.venv/
+data/*.csv
+euromillions_history.csv
